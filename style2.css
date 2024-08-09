@@ -1,0 +1,12 @@
+
+
+nav>div{
+    border: black 5px solid;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1 1 auto;
+    
+
+}
