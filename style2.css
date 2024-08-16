@@ -10,3 +10,20 @@ nav>div{
     
 
 }
+
+.rice{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.Eggs{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
+.salad{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+}
